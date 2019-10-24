@@ -58,7 +58,7 @@ function DrawTable($data)
 
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/js/bootstrap.min.js"></script></head><body><div class "container">
 
-<table class='.table'>
+<table class='table'>
 		<tr>
 			<td colspan='2'>
 			<img src=<?php echo $data['image'] ;?>>
